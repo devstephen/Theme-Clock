@@ -1,3 +1,3 @@
 # Theme-Clock
-A clock widget widget dark .
+A clock widget with dark mode.
 
